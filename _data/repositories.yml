@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
+  - mgolbabaee
+  - p-mayo
+  - ketanfatania
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - mgolbabaee/LRTV-MRFResnet-for-MRFingerprinting
+  - mgolbabaee/CoverBLIP
+  - mgolbabaee/SGB-Lasso-for-partial-volume-quantitative-MRI
+  - ketanfatania/QMRI-PnP-Recon-POC 
