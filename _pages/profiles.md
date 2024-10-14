@@ -74,7 +74,7 @@ nav_order: 7
 	
 	<a href="https://www.thi.de/en/persons/prof-dr-marion-menzel/">
 		<div class="col-sm mt-3 mt-md-0">
-			<h4><br>Prof. Marion Menzel</h4>
+			<h4><br><br>Prof. Marion Menzel</h4>
 			<h5>GE Healthcare</h5>
 			{% include figure.html path="assets/img/profile_pictures/marion.jpg" class="img-fluid rounded z-depth-1" %}
 		</div>
@@ -82,7 +82,7 @@ nav_order: 7
 	
 	<a href="https://scholar.google.com/citations?user=gPyyXOwAAAAJ&hl=en">
 		<div class="col-sm mt-3 mt-md-0">
-			<h4><br>Dr. Carolin Pirkl</h4>
+			<h4><br><br>Dr. Carolin Pirkl</h4>
 			<h5>GE Healthcare</h5>
 			{% include figure.html path="assets/img/profile_pictures/carolin.jpg" class="img-fluid rounded z-depth-1" %}
 		</div>
