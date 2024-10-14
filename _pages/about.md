@@ -13,13 +13,24 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
+news: true  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
+# Unlocking the Full Potential of MRI with Advanced Quantitative Imaging
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The Deep Compressed Magnetic Resonance Imaging (DCQMRI) project started in March 2023, 
+under the leadership of [Mohammad Golbabaae](https://mgolbabaee.wordpress.com/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+We are developing innovative computational solutions to address a critical limitation in current MRI technology—its lack of quantitative, standardized measurements. 
+While MRI is the gold standard for noninvasive, high-resolution imaging, conventional scans cannot be easily compared across hospitals or time points, limiting 
+their diagnostic precision. Our research focuses on advancing quantitative MRI (qMRI), which provides reproducible measurements of tissue properties and has the 
+potential to transform MRI into a precise scientific tool. However, qMRI’s long scan times have hindered its widespread clinical adoption. To overcome this, 
+we are collaborating with world-leading partners, including GE Healthcare, University of Zurich, IRCCS Stella Maris, and University College London. 
+Together, we are leveraging advanced deep learning methods for compressed sensing to significantly reduce scan times, making qMRI faster and more practical 
+for routine clinical use. By enhancing both image acquisition and reconstruction processes, we aim to turn existing MRI systems into powerful tools for standardized, 
+quantitative imaging that can be seamlessly applied across clinical sites, patients, and time points—unlocking new possibilities for precision diagnostics 
+and patient monitoring.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+This project is funded by EPSRC grant [EP/X001091/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/X001091/1)
