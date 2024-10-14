@@ -66,7 +66,7 @@ nav_order: 7
 	
 	<a href="https://profiles.ucl.ac.uk/32353-manil-chouhan">
 		<div class="col-sm mt-3 mt-md-0">
-			<h4>Dr. Manil Chouhan</h4>
+			<h4><br>Dr. Manil Chouhan</h4>
 			<h5>UCL - Centre for</h5><h5>Medical Imaging</h5>
 			{% include figure.html path="assets/img/profile_pictures/manil_chouhan.jpg" class="img-fluid rounded z-depth-1" %}
 		</div>
@@ -87,10 +87,7 @@ nav_order: 7
 			{% include figure.html path="assets/img/profile_pictures/carolin.jpg" class="img-fluid rounded z-depth-1" %}
 		</div>
 	</a>
-</div>
-
-
-<div class="row"><br>
+	
 	<a href="https://www.bristol.ac.uk/people/person/Alin-Achim-a515a426-727d-480b-8d4e-a4a756d6d8f9/">
 		<div class="col-sm mt-3 mt-md-0">
 			<h4>Prof. Alin Achim </h4>
